@@ -1,0 +1,29 @@
+{
+  "name": "forex",
+  "version": "1.0.0",
+  "description": "forex transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecheeknee/node-forex.git"
+  },
+  "keywords": [
+    "node",
+    "forex",
+    "mongodb"
+  ],
+  "author": "the-cheeknee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecheeknee/node-forex/issues"
+  },
+  "homepage": "https://github.com/thecheeknee/node-forex#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
